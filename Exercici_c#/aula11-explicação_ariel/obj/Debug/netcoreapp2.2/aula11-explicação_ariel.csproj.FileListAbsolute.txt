@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\SENAI-backend-CSharp\aula11-explicação_ariel\bin\Debug\netcoreapp2.2\aula11-explicação_ariel.deps.json
+C:\Users\fic\Desktop\SENAI-backend-CSharp\aula11-explicação_ariel\bin\Debug\netcoreapp2.2\aula11-explicação_ariel.runtimeconfig.json
+C:\Users\fic\Desktop\SENAI-backend-CSharp\aula11-explicação_ariel\bin\Debug\netcoreapp2.2\aula11-explicação_ariel.runtimeconfig.dev.json
+C:\Users\fic\Desktop\SENAI-backend-CSharp\aula11-explicação_ariel\bin\Debug\netcoreapp2.2\aula11-explicação_ariel.dll
+C:\Users\fic\Desktop\SENAI-backend-CSharp\aula11-explicação_ariel\bin\Debug\netcoreapp2.2\aula11-explicação_ariel.pdb
+C:\Users\fic\Desktop\SENAI-backend-CSharp\aula11-explicação_ariel\obj\Debug\netcoreapp2.2\aula11-explicação_ariel.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\SENAI-backend-CSharp\aula11-explicação_ariel\obj\Debug\netcoreapp2.2\aula11-explicação_ariel.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\SENAI-backend-CSharp\aula11-explicação_ariel\obj\Debug\netcoreapp2.2\aula11-explicação_ariel.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\SENAI-backend-CSharp\aula11-explicação_ariel\obj\Debug\netcoreapp2.2\aula11-explicação_ariel.AssemblyInfo.cs
+C:\Users\fic\Desktop\SENAI-backend-CSharp\aula11-explicação_ariel\obj\Debug\netcoreapp2.2\aula11-explicação_ariel.dll
+C:\Users\fic\Desktop\SENAI-backend-CSharp\aula11-explicação_ariel\obj\Debug\netcoreapp2.2\aula11-explicação_ariel.pdb

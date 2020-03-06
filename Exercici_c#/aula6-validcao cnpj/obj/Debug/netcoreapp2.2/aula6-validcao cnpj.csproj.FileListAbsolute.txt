@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\SENAI-backend-CSharp\aula6-validcao cnpj\bin\Debug\netcoreapp2.2\aula6-validcao cnpj.deps.json
+C:\Users\fic\Desktop\SENAI-backend-CSharp\aula6-validcao cnpj\bin\Debug\netcoreapp2.2\aula6-validcao cnpj.runtimeconfig.json
+C:\Users\fic\Desktop\SENAI-backend-CSharp\aula6-validcao cnpj\bin\Debug\netcoreapp2.2\aula6-validcao cnpj.runtimeconfig.dev.json
+C:\Users\fic\Desktop\SENAI-backend-CSharp\aula6-validcao cnpj\bin\Debug\netcoreapp2.2\aula6-validcao cnpj.dll
+C:\Users\fic\Desktop\SENAI-backend-CSharp\aula6-validcao cnpj\bin\Debug\netcoreapp2.2\aula6-validcao cnpj.pdb
+C:\Users\fic\Desktop\SENAI-backend-CSharp\aula6-validcao cnpj\obj\Debug\netcoreapp2.2\aula6-validcao cnpj.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\SENAI-backend-CSharp\aula6-validcao cnpj\obj\Debug\netcoreapp2.2\aula6-validcao cnpj.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\SENAI-backend-CSharp\aula6-validcao cnpj\obj\Debug\netcoreapp2.2\aula6-validcao cnpj.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\SENAI-backend-CSharp\aula6-validcao cnpj\obj\Debug\netcoreapp2.2\aula6-validcao cnpj.AssemblyInfo.cs
+C:\Users\fic\Desktop\SENAI-backend-CSharp\aula6-validcao cnpj\obj\Debug\netcoreapp2.2\aula6-validcao cnpj.dll
+C:\Users\fic\Desktop\SENAI-backend-CSharp\aula6-validcao cnpj\obj\Debug\netcoreapp2.2\aula6-validcao cnpj.pdb
