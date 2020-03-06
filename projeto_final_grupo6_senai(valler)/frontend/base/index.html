@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Página inicial Valer</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/uikit.min.css" />
+    <script src="https://kit.fontawesome.com/596c3beb95.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/uikit@3.2.2/dist/js/uikit.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/uikit@3.2.2/dist/js/uikit-icons.min.js"></script>
+</head>
+
+<body>
+    <div id="login" class="fundo-modal">
+        <div class="conteudo-modal">
+            <a class="fechar" href="#">X</a>
+            <div class="cadastro-modal">
+                <img src="" alt="">
+                <form action="">
+                    <input type="text" placeholder="Insira seu nome e sobrenome">
+                    <input type="text" placeholder="Insira seu email">
+                    <input type="text" placeholder="insira seu CPF ou CNPJ">
+                </form>
+            </div>
+
+            <div class="login-modal">
+                <img src="" alt="">
+                <form action="">
+                    <input type="text" placeholder="Insira seu nome e sobrenome">
+                    <input type="text" placeholder="Insira seu email">
+                    <input type="text" placeholder="insira seu CPF ou CNPJ">
+                </form>
+            </div>
+
+            <div class="cover-cadastro">
+                <button class="btn-login">
+                    login
+                </button>
+            </div>
+
+        </div>
+
+    </div>
+    <header>
+        <div class="background-laranja">
+            <nav class="container">
+                <ul class="barra-mobile">
+                    <li><a href="index.html"><i class="fas fa-home"></i>Voltar</a></li>
+                    <li><a href="index.html"><i class="fas fa-search-location"></i>Mercados</a></li>
+                    <li><a href="index.html"><i class="fas fa-calendar-check"></i>Reservas</a></li>
+                    <li><a href="index.html"><i class="fas fa-user"></i>Conta</a></li>
+                    <li><a href="index.html"><i class="fas fa-bars"></i>Menu</a></li>
+                </ul>
+            </nav>
+        </div>
+
+        <div class="background-laranja">
+            <nav class="container">
+                <div class="barra-desktop container">
+                    <nav class="barra-cima">
+                        <a href="index.html"><img class="logo-valer" src="img/valler_logo_novo.png"
+                                alt="Logo da Valer - Clicar para Voltar para a página inicial"></a>
+                        <button class="categorias">Categorias <i class="fas fa-bars"></i></button>
+                        <!-- <div class="">
+                            <i class="fas fa-search"></i>
+                            <input class="uk-search-input" type="search" id="pesquisa-produtos" name="" placeholder="O que procura ?">
+                        </div> -->
+                        <nav class="uk-navbar-container uk-navbar">
+                            <div class="uk-navbar-left container">
+                        
+                                <div class="uk-navbar-item">
+                                    <form class="uk-search uk-search-navbar">
+                                        <span uk-search-icon></span>
+                                        <input class="uk-search-input" type="search" placeholder="O que procura ?">
+                                    </form>
+                                </div>
+                        
+                            </div>
+                        </nav>
+                        <a href="#"><i class="fas fa-map-marker-alt"></i> Santa Cecilia, São Paulo - SP</a>
+                    </nav>
+                </div>
+            </nav>
+        </div>
+
+        <div class="background-branco">
+            <div class="barra-desktop container">
+                <!-- <nav class="container">
+                    <ul>
+                        <li><a href="index.html">Destaques</a></li>
+                        <li><a href="busca.html">Buscar outros mercados</a></li>
+                        <li><a href="Sobre.html">Como funciona?</a></li>
+                        <li><a href="gerenciamento de produtos.html">Vender</a></li>
+                        <li class="login"><a class="login" href="Cadastro.html"><i class="fas fa-user"></i>
+                                Entrar/Cadastrar</a>
+                        </li>
+                    </ul>
+                </nav> -->
+
+                <ul class="uk-subnav uk-subnav-pill" uk-margin>
+                    <li class="uk-active"><a href="index.html">Destaques</a></li>
+                    <li><a href="gerenciamento de produtos.html">Vender</a></li>
+                    <li><a href="#">Como funciona?</a></li>
+                    <li><a href="#">Buscar outros mercados</a></li>
+                    <li class="laranja-valler"><a class="laranja-valler" href="#login"><span uk-icon="sign-in"></span>&nbsp;</span>Entrar/Cadastrar</a></li>
+                </ul>
+
+            </div>
+        </div>
+
+    </header>
+
+    <main>
+
+        <div class="container">
+            <div class="search-cat">
+                <div class="barra_pesquisa-mobile">
+                    <i class="fas fa-search"></i>
+                    <label for="pesquisa-produtos">
+                        <input type="search" id="pesquisa-produtos" name="" placeholder="O que procura ?">
+                    </label>
+                </div>
+                <a href="#"><i class="fas fa-bars"></i>categorias</a>
+            </div>
+        </div>
+
+        <div class="banner">
+            <img class="listras" src="img/banner-home.png" alt="">
+        </div>
+        <!-- INICIO DA VITRINE DOS PRODUTOS -->
+        <div class="onde_vende container">
+            <h3>Destaques</h3><a class="mercado" href="#">Extra - 9 de Julho</a><a class="vermais" href="#">Ver mais
+                produtos dessa loja <i class="fas fa-sign-in-alt"></i></a>
+        </div>
+
+    </main>
+</body>
+
+</html>
